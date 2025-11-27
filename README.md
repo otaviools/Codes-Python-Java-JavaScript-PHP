@@ -28,9 +28,6 @@ Design
 📘 Temas Comuns das atividades e Projetos
 
 -Exercícios de lógica de programação
--Miniaplicações em JavaScript
--Interfaces com Bootstrap
--Projetos de front-end básicos
 -Algoritmos e estruturas de dados
 -Sistemas simples em Java ou Python
 -Atividades de cursos e faculdade
